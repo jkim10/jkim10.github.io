@@ -1,3 +1,6 @@
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-octicons
+title: Justin Kim's Personal Site
+description: Welcome :D
+logo: profile.jpg
