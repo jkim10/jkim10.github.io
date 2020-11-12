@@ -1,6 +1,7 @@
 ## Welcome to GitHub Pages
-## Projects
+## Link to OSS Project - Paranoia | [repo](https://github.com/jkim10/Paranoia)
 
+## Projects
 {% assign orderedRepos = site.github.public_repositories | sort: 'stargazers_count' | reverse %}
 {% for repository in orderedRepos %}
 {% assign homepageLength = repository.homepage | size %}
