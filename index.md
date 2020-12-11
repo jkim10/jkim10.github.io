@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-## Link to OSS Project - Paranoia | [repo](https://github.com/jkim10/Paranoia)
+## Link to OSS Project - Let's Decide | [repo](https://github.com/jkim10/Let-s-Decide)
 
 ## Projects
 {% assign orderedRepos = site.github.public_repositories | sort: 'stargazers_count' | reverse %}
